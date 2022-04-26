@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<h1>이 폼을 채우세요</h1>
+
+<form action="/hello" method="POST">
+    인사말: <input type="text" name="greet">
+    <br/>
+    이름: <input type="text" name="name">
+    <br/>
+    <input type="submit">
+</form>
+
+{% endblock %}

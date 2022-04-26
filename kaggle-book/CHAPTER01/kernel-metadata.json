@@ -1,0 +1,13 @@
+{
+    "id": "arti1117/kaggle_book_chapter01_01",
+    "language": "python",
+    "title": "Kaggle Book Chapter1",
+    "competition_sources": [],
+    "is_private": "false",
+    "kernel_type": "script",
+    "enable_gpu": "false",
+    "dataset_sources": ["c/titanic"],
+    "code_file": "chapter01-01-titanic.py",
+    "kernel_sources": [],
+    "enable_internet": "false"
+}

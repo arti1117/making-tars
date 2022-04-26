@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<h1> {{방.이름}} </h1>
+
+<pre>
+{{방.설명}}
+</pre>
+
+{% if 방.이름 in ["사망", "결말"] %}
+    <p><a href="/">다시 하기</a></p>
+{% else %}
+    <p>
+    <form action="/game" method="POST">
+        - <input type="text" name="action"><input type="SUBMIT">
+    </form>
+    </p>
+{% endif %}
+
+{% endblock %}

@@ -1,0 +1,11 @@
+{
+    "title": "Sample Dataset",
+    "id": "arti1117/sample-dataset",
+    "licenses": [{ "name": "CC0-1.0"}],
+    "resources": [
+        {
+            "path": "in.csv",
+            "description": "This is dummy for testing"
+        }
+    ]
+}

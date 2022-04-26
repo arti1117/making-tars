@@ -1,0 +1,14 @@
+{
+  "name":{"pandas":"",
+          "Numpy":"",
+          "matplotlib":""},
+  "year":{"pandas":2008,
+          "Numpy":2006,
+          "matplotlib":2003},
+  "developer":{"pandas":"Wes Mckinneys",
+               "Numpy":"Travis Oliphant",
+               "matplotlib":"John D. Hunter"},
+  "opensource":{"pandas":"True",
+                "Numpy":"True",
+                "matplotlib":"True"}
+}
