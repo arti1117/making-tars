@@ -1,4 +1,4 @@
-# Making TARS From Scratch
+# Making TARS
 
 **인공지능 로봇을 만들기 위해 코딩따라하기!**
 
