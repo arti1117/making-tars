@@ -1,1 +1,3 @@
-# This is practicing R page for Advanced Data Analytics Professional
+# Tutorial Page
+
+A <- c(1:10)
