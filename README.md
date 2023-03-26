@@ -5,11 +5,17 @@
 ----
 
 ## Index of contents
+- (16) Fluent Python (2023.03.26 ~)
+    전문가를 위한 파이썬
+    [ORT](http://www.hanbit.co.kr/exam/2498)
+    [DIR](fluent-python)
+    [URL](https://product.kyobobook.co.kr/detail/S000001057838)
+
 
 - (15) Tensorflow (2022.12.12 ~ )
-   텐서플로
-   [DIR](tensorflow)
-   [URL](https://www.tensorflow.org)
+    텐서플로
+    [DIR](tensorflow)
+    [URL](https://www.tensorflow.org)
 
 - (14) Python Machine Learning Book 3rd Edition (2022.07.27 ~ )
     머신 러닝 교과서 with 파이썬, 사이킷런, 텐서플로 머신 러닝, 딥러닝 핵심 알고리즘부터 GAN, 강화 학습까지! | 개정판 3판
